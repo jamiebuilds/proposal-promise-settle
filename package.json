@@ -1,6 +1,6 @@
 {
   "name": "proposal-promise-settle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Proposal for Promise.settle and AggregateError",
   "main": "index.js",
   "repository": "https://github.com/jamiebuilds/proposal-promise-settle",

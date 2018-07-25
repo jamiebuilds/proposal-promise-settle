@@ -1,0 +1,15 @@
+{
+  "name": "proposal-promise-settle",
+  "version": "0.0.0",
+  "description": "Proposal for Promise.settle and AggregateError",
+  "main": "index.js",
+  "repository": "https://github.com/jamiebuilds/proposal-promise-settle",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}

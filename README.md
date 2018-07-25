@@ -65,6 +65,8 @@ try {
 }
 ```
 
+[WIP]
+
 ### `AggregateError` motivation
 
 Today, when you have a set of errors, there's no clear way to collect them into
@@ -143,7 +145,11 @@ try {
 }
 ```
 
+[WIP]
+
 ### All Together
+
+[WIP]
 
 ```js
 let {rejected} = await Promise.settle(files.map(readFile));
